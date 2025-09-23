@@ -78,10 +78,40 @@ some collected or created gazebo worlds
 
 8. ZY_world_outdoor8.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/t1.png" 
-       alt="t1 world" 
-       title="t1 Gazebo World Environment"
+  <img src="assets/ZY_world_outdoor8.png" 
+       alt="ZY_world_outdoor8 world" 
+       title="ZY_world_outdoor8 Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"
+       loading="lazy"/>
+</div>
+
+9. ZY_world1_simplify.world
+<div align="center" style="margin: 20px 0;">
+  <img src="assets/ZY_world1_simplify.png" 
+       alt="ZY_world1_simplify world" 
+       title="ZY_world1_simplify Gazebo World Environment"
+       width="800" 
+       style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,250,0,0.25);"
+       loading="lazy"/>
+</div>
+
+10. ZY_world1.world
+<div align="center" style="margin: 20px 0;">
+  <img src="assets/ZY_world1.png" 
+       alt="ZY_world1 world" 
+       title="ZY_world1 Gazebo World Environment"
+       width="800" 
+       style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
+       loading="lazy"/>
+</div>
+
+11. ZY_world2_outdoor.world
+<div align="center" style="margin: 20px 0;">
+  <img src="assets/ZY_world2_outdoor.png" 
+       alt="ZY_world2_outdoor world" 
+       title="ZY_world2_outdoor Gazebo World Environment"
+       width="800" 
+       style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
 </div>
