@@ -105,13 +105,3 @@ some collected or created gazebo worlds
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
 </div>
-
-11. ZY_world2_outdoor.world
-<div align="center" style="margin: 20px 0;">
-  <img src="assets/ZY_world2_outdoor.png" 
-       alt="ZY_world2_outdoor world" 
-       title="ZY_world2_outdoor Gazebo World Environment"
-       width="800" 
-       style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
-       loading="lazy"/>
-</div>
