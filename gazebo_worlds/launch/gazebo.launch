@@ -1,6 +1,15 @@
 <launch>
+    <!-- exploration_worlds 
+        A1_complex
+        A1_complex18
+        A1_complex20
+        A1_upgrade
+        A1
+        t1
+        ZY_world_outdoor8
+    -->
     <arg name="wname_class" default="exploration_worlds"/>
-    <arg name="wname" default="A1_complex"/>
+    <arg name="wname" default="ZY_world_outdoor8"/>
     <arg name="debug" default="false"/>
     <arg name="gui" default="true"/>
     <arg name="paused" default="true"/>
