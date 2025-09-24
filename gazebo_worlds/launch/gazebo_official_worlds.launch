@@ -1,0 +1,46 @@
+<launch>
+    <!-- 
+        gazebo_official_worlds
+            actor_bvh
+            fuel_models
+            A1_complex20
+            A1_upgrade
+            A1
+            t1
+            ZY_world_outdoor8
+            ZY_world1_simplify
+            ZY_world1
+            ZY_world2_outdoor
+    -->
+    <arg name="wname" default="actor_bvh"/>
+    <!-- these are the arguments you can pass this launch file, for example paused:=true -->
+    <arg name="paused" default="false"/>
+    <arg name="use_sim_time" default="true"/>
+    <arg name="extra_gazebo_args" default=""/>
+    <arg name="gui" default="true"/>
+    <arg name="recording" default="false"/>
+    <!-- Note that 'headless' is currently non-functional.  See gazebo_ros_pkgs issue #491 (-r arg does not disable
+        rendering, but instead enables recording). The arg definition has been left here to prevent breaking downstream
+        launch files, but it does nothing. -->
+    <arg name="headless" default="false"/>
+    <arg name="debug" default="false"/>
+    <arg name="physics" default="ode"/>
+    <arg name="verbose" default="false"/>
+    <arg name="output" default="screen"/>
+    <arg name="world_name" default="worlds/empty.world"/> <!-- Note: the world_name is with respect to GAZEBO_RESOURCE_PATH environmental variable -->
+    <arg name="respawn_gazebo" default="false"/>
+    <arg name="use_clock_frequency" default="false"/>
+    <arg name="pub_clock_frequency" default="100"/>
+    <arg name="enable_ros_network" default="true" />
+    <arg name="server_required" default="false"/>
+    <arg name="gui_required" default="false"/>
+
+    <include file="$(find gazebo_ros)/launch/empty_world.launch">
+        <arg name="world_name" value="/usr/share/gazebo-11/worlds/$(arg wname).world"/>
+        <arg name="debug" value="$(arg debug)"/>
+        <arg name="gui" value="$(arg gui)"/>
+        <arg name="paused" value="$(arg paused)"/>
+        <arg name="use_sim_time" value="$(arg use_sim_time)"/>
+        <arg name="headless" value="$(arg headless)"/>
+    </include>
+</launch>

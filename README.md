@@ -3,6 +3,10 @@ some collected or created gazebo worlds
 
 
 ---
+## detection_worlds
+
+存在问题，有待处理..
+
 
 ## exploration_worlds
 
@@ -101,6 +105,18 @@ some collected or created gazebo worlds
   <img src="assets/ZY_world1.png" 
        alt="ZY_world1 world" 
        title="ZY_world1 Gazebo World Environment"
+       width="800" 
+       style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
+       loading="lazy"/>
+</div>
+
+## gazebo_official_worlds
+
+1. actor_bvh.world
+<div align="center" style="margin: 20px 0;">
+  <img src="assets/actor_bvh.gif" 
+       alt="actor_bvh world" 
+       title="actor_bvh Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
