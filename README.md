@@ -92,7 +92,7 @@ some collected or created gazebo worlds
        alt="ZY_world1_simplify world" 
        title="ZY_world1_simplify Gazebo World Environment"
        width="800" 
-       style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,250,0,0.25);"
+       style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,150,200,0.25);"
        loading="lazy"/>
 </div>
 
