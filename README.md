@@ -121,3 +121,23 @@ some collected or created gazebo worlds
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
 </div>
+
+2. actor.world
+<div align="center" style="margin: 20px 0;">
+  <img src="assets/actor.gif" 
+       alt="actor world" 
+       title="actor Gazebo World Environment"
+       width="800" 
+       style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
+       loading="lazy"/>
+</div>
+
+3. animated_box.world
+<div align="center" style="margin: 20px 0;">
+  <img src="assets/animated_box.gif" 
+       alt="animated_box world" 
+       title="animated_box Gazebo World Environment"
+       width="800" 
+       style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
+       loading="lazy"/>
+</div>
