@@ -444,9 +444,9 @@ some collected or created gazebo worlds
 
 34. gripper.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/gripper.gif" 
+       alt="gripper world" 
+       title="gripper Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -454,9 +454,9 @@ some collected or created gazebo worlds
 
 35. harness.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/harness.gif" 
+       alt="harness world" 
+       title="harness Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -464,9 +464,9 @@ some collected or created gazebo worlds
 
 36. heightmap_dem.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/heightmap_dem.gif" 
+       alt="heightmap_dem world" 
+       title="heightmap_dem Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -474,9 +474,9 @@ some collected or created gazebo worlds
 
 37. heightmap.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/heightmap.gif" 
+       alt="heightmap world" 
+       title="heightmap Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -484,9 +484,9 @@ some collected or created gazebo worlds
 
 38. hydra_demo.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/hydra_demo.gif" 
+       alt="hydra_demo world" 
+       title="hydra_demo Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -494,9 +494,9 @@ some collected or created gazebo worlds
 
 39. imu_demo.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/imu_demo.gif" 
+       alt="imu_demo world" 
+       title="imu_demo Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -504,9 +504,9 @@ some collected or created gazebo worlds
 
 40. initial_velocity.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/initial_velocity.gif" 
+       alt="initial_velocity world" 
+       title="initial_velocity Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -514,9 +514,9 @@ some collected or created gazebo worlds
 
 41. init_joint_control.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/init_joint_control.gif" 
+       alt="init_joint_control world" 
+       title="init_joint_control Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -524,9 +524,9 @@ some collected or created gazebo worlds
 
 42. iris_arducopter_demo.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/iris_arducopter_demo.gif" 
+       alt="iris_arducopter_demo world" 
+       title="iris_arducopter_demo Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -534,9 +534,9 @@ some collected or created gazebo worlds
 
 43. joint_damping_demo.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/joint_damping_demo.gif" 
+       alt="joint_damping_demo world" 
+       title="joint_damping_demo Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -544,9 +544,9 @@ some collected or created gazebo worlds
 
 44. joint_friction_demo.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/joint_friction_demo.gif" 
+       alt="joint_friction_demo world" 
+       title="joint_friction_demo Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -554,9 +554,9 @@ some collected or created gazebo worlds
 
 45. joints.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/joints.gif" 
+       alt="joints world" 
+       title="joints Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -564,9 +564,9 @@ some collected or created gazebo worlds
 
 46. joy_demo.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/joy_demo.gif" 
+       alt="joy_demo world" 
+       title="joy_demo Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -574,9 +574,9 @@ some collected or created gazebo worlds
 
 47. keys_to_cmd_vel.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/keys_to_cmd_vel.gif" 
+       alt="keys_to_cmd_vel world" 
+       title="keys_to_cmd_vel Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -584,9 +584,9 @@ some collected or created gazebo worlds
 
 48. led_plugin_demo.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/led_plugin_demo.gif" 
+       alt="led_plugin_demo world" 
+       title="led_plugin_demo Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -594,9 +594,9 @@ some collected or created gazebo worlds
 
 49. lensflare_plugin.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/lensflare_plugin.gif" 
+       alt="lensflare_plugin world" 
+       title="lensflare_plugin Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -604,9 +604,9 @@ some collected or created gazebo worlds
 
 50. lensflare_wideangle_cam.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/lensflare_wideangle_cam.gif" 
+       alt="lensflare_wideangle_cam world" 
+       title="lensflare_wideangle_cam Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -614,9 +614,9 @@ some collected or created gazebo worlds
 
 51. lift_drag_demo.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/lift_drag_demo.gif" 
+       alt="lift_drag_demo world" 
+       title="lift_drag_demo Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
