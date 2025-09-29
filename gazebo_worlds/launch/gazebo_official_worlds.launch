@@ -25,8 +25,8 @@
             empty_bullet.world
             empty_sky.world
             empty.world
-            everything.world
-            fiducial.world
+            everything.world                                                     #false
+            fiducial.world                                                       #false
             flash_light_plugin_demo.world
             flocking.world
             force_torque_demo.world
@@ -124,9 +124,9 @@
             wireless_sensors.world
             zephyr_demo.world
     -->
-    <arg name="wname" default="cessna_demo"/>
+    <arg name="wname" default="gravity_compensation"/>
     <!-- these are the arguments you can pass this launch file, for example paused:=true -->
-    <arg name="paused" default="false"/>
+    <arg name="paused" default="true"/>
     <arg name="use_sim_time" default="true"/>
     <arg name="extra_gazebo_args" default=""/>
     <arg name="gui" default="true"/>
