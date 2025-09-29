@@ -124,7 +124,7 @@
             wireless_sensors.world
             zephyr_demo.world
     -->
-    <arg name="wname" default="cart_demo"/>
+    <arg name="wname" default="cessna_demo"/>
     <!-- these are the arguments you can pass this launch file, for example paused:=true -->
     <arg name="paused" default="false"/>
     <arg name="use_sim_time" default="true"/>

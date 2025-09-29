@@ -224,9 +224,9 @@ some collected or created gazebo worlds
 
 12. cessna_demo.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/cessna_demo.gif" 
+       alt="cessna_demo world" 
+       title="cessna_demo Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
