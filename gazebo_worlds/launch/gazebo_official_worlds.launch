@@ -4,7 +4,7 @@
             actor_bvh.world
             actor.world
             animated_box.world
-            animation_tension.world
+            animation_tension.world                                              #false
             attach_lights.world
             blank.world
             blink_visual.world
@@ -124,7 +124,7 @@
             wireless_sensors.world
             zephyr_demo.world
     -->
-    <arg name="wname" default="animated_box"/>
+    <arg name="wname" default="cart_demo"/>
     <!-- these are the arguments you can pass this launch file, for example paused:=true -->
     <arg name="paused" default="false"/>
     <arg name="use_sim_time" default="true"/>

@@ -13,7 +13,7 @@
             ZY_world2_outdoor
     -->
     <arg name="wname_class" default="exploration_worlds"/>
-    <arg name="wname" default="ZY_world2_outdoor"/>
+    <arg name="wname" default="A1_complex"/>
     <arg name="debug" default="false"/>
     <arg name="gui" default="true"/>
     <arg name="paused" default="true"/>
