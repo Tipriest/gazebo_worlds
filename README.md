@@ -624,9 +624,9 @@ some collected or created gazebo worlds
 
 52. lights.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/lights.gif" 
+       alt="lights world" 
+       title="lights Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -634,9 +634,9 @@ some collected or created gazebo worlds
 
 53. linear_battery_demo.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/linear_battery_demo.gif" 
+       alt="linear_battery_demo world" 
+       title="linear_battery_demo Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -644,9 +644,9 @@ some collected or created gazebo worlds
 
 54. logical_camera.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/logical_camera.gif" 
+       alt="logical_camera world" 
+       title="logical_camera Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -654,9 +654,9 @@ some collected or created gazebo worlds
 
 55. lookat_demo.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/lookat_demo.gif" 
+       alt="lookat_demo world" 
+       title="lookat_demo Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -664,9 +664,9 @@ some collected or created gazebo worlds
 
 56. magnetometer.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/magnetometer.gif" 
+       alt="magnetometer world" 
+       title="magnetometer Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -674,9 +674,9 @@ some collected or created gazebo worlds
 
 57. mass_on_rails.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/mass_on_rails.gif" 
+       alt="mass_on_rails world" 
+       title="mass_on_rails Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -684,9 +684,9 @@ some collected or created gazebo worlds
 
 58. misalignment_plugin_demo.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/misalignment_plugin_demo.gif" 
+       alt="misalignment_plugin_demo world" 
+       title="misalignment_plugin_demo Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -694,9 +694,9 @@ some collected or created gazebo worlds
 
 59. mud_bitmask.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/mud_bitmask.gif" 
+       alt="mud_bitmask world" 
+       title="mud_bitmask Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>

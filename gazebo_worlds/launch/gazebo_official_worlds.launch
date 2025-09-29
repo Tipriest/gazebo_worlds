@@ -52,7 +52,7 @@
             lensflare_plugin.world
             lensflare_wideangle_cam.world
             lift_drag_demo.world 
-            lights.world
+            lights.world                                                         #false
             linear_battery_demo.world
             logical_camera.world
             lookat_demo.world
@@ -124,7 +124,7 @@
             wireless_sensors.world
             zephyr_demo.world
     -->
-    <arg name="wname" default="lift_drag_demo"/>
+    <arg name="wname" default="mud_bitmask"/>
     <!-- these are the arguments you can pass this launch file, for example paused:=true -->
     <arg name="paused" default="true"/>
     <arg name="use_sim_time" default="true"/>
