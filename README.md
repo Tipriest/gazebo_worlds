@@ -944,9 +944,9 @@ some collected or created gazebo worlds
 
 84. ray_cpu.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/ray_cpu.gif" 
+       alt="ray_cpu world" 
+       title="ray_cpu Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -954,9 +954,9 @@ some collected or created gazebo worlds
 
 85. ray_noise_plugin.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/ray_noise_plugin.gif" 
+       alt="ray_noise_plugin world" 
+       title="ray_noise_plugin Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -964,9 +964,9 @@ some collected or created gazebo worlds
 
 86. reflectance.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/reflectance.gif" 
+       alt="reflectance world" 
+       title="reflectance Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -974,9 +974,9 @@ some collected or created gazebo worlds
 
 87. road_textures.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/road_textures.gif" 
+       alt="road_textures world" 
+       title="road_textures Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
