@@ -984,9 +984,9 @@ some collected or created gazebo worlds
 
 88. road.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/road.gif" 
+       alt="road world" 
+       title="road Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -994,9 +994,9 @@ some collected or created gazebo worlds
 
 89. robocup09_spl_field.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/robocup09_spl_field.gif" 
+       alt="robocup09_spl_field world" 
+       title="robocup09_spl_field Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -1004,9 +1004,9 @@ some collected or created gazebo worlds
 
 90. robocup14_spl_field.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/robocup14_spl_field.gif" 
+       alt="robocup14_spl_field world" 
+       title="robocup14_spl_field Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -1014,9 +1014,9 @@ some collected or created gazebo worlds
 
 91. robocup_3Dsim.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/robocup_3Dsim.gif" 
+       alt="robocup_3Dsim world" 
+       title="robocup_3Dsim Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -1024,9 +1024,9 @@ some collected or created gazebo worlds
 
 92. rubble.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/rubble.gif" 
+       alt="rubble world" 
+       title="rubble Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -1034,9 +1034,9 @@ some collected or created gazebo worlds
 
 93. seesaw.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/seesaw.gif" 
+       alt="seesaw world" 
+       title="seesaw Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -1044,9 +1044,9 @@ some collected or created gazebo worlds
 
 94. shapes_bitmask.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/shapes_bitmask.gif" 
+       alt="shapes_bitmask world" 
+       title="shapes_bitmask Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -1054,9 +1054,9 @@ some collected or created gazebo worlds
 
 95. shapes_layers.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/shapes_layers.gif" 
+       alt="shapes_layers world" 
+       title="shapes_layers Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -1064,9 +1064,9 @@ some collected or created gazebo worlds
 
 96. shapes_shininess.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/shapes_shininess.gif" 
+       alt="shapes_shininess world" 
+       title="shapes_shininess Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -1074,9 +1074,9 @@ some collected or created gazebo worlds
 
 97. shapes.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/shapes.gif" 
+       alt="shapes world" 
+       title="shapes Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -1084,9 +1084,9 @@ some collected or created gazebo worlds
 
 98. sim_events.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/sim_events.gif" 
+       alt="sim_events world" 
+       title="sim_events Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -1094,9 +1094,9 @@ some collected or created gazebo worlds
 
 99. simple_arm_teleop.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/simple_arm_teleop.gif" 
+       alt="simple_arm_teleop world" 
+       title="simple_arm_teleop Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -1104,9 +1104,9 @@ some collected or created gazebo worlds
 
 100. simple_arm.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/simple_arm.gif" 
+       alt="simple_arm world" 
+       title="simple_arm Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
