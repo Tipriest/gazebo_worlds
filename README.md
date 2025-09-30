@@ -1112,231 +1112,221 @@ some collected or created gazebo worlds
        loading="lazy"/>
 </div>
 
-101. simple_arm.world
+101. simple_gripper.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/simple_gripper.gif" 
+       alt="simple_gripper world" 
+       title="simple_gripper Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
 </div>
 
-102. simple_gripper.world
+102. single_rotor_demo.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/single_rotor_demo.gif" 
+       alt="single_rotor_demo world" 
+       title="single_rotor_demo Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
 </div>
 
-103. single_rotor_demo.world
+103. sonar_demo.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/sonar_demo.gif" 
+       alt="sonar_demo world" 
+       title="sonar_demo Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
 </div>
 
-104. sonar_demo.world
+104. sphere_atlas_demo.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/sphere_atlas_demo.gif" 
+       alt="sphere_atlas_demo world" 
+       title="sphere_atlas_demo Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
 </div>
 
-105. sphere_atlas_demo.world
+105. spotlight_shadows_demo.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/spotlight_shadows_demo.gif" 
+       alt="spotlight_shadows_demo world" 
+       title="spotlight_shadows_demo Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
 </div>
 
-106. spotlight_shadows_demo.world
+106. ssao_plugin.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/ssao_plugin.gif" 
+       alt="ssao_plugin world" 
+       title="ssao_plugin Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
 </div>
 
-107. ssao_plugin.world
+107. stacks.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/stacks.gif" 
+       alt="stacks world" 
+       title="stacks Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
 </div>
 
-108. stacks.world
+108. static_map_plugin.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/static_map_plugin.gif" 
+       alt="static_map_plugin world" 
+       title="static_map_plugin Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
 </div>
 
-109. static_map_plugin.world
+109. timer_gui.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/timer_gui.gif" 
+       alt="timer_gui world" 
+       title="timer_gui Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
 </div>
 
-110. timer_gui.world
+110. torsional_friction_demo.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/torsional_friction_demo.gif" 
+       alt="torsional_friction_demo world" 
+       title="torsional_friction_demo Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
 </div>
 
-111. torsional_friction_demo.world
+111. touch_plugin_demo.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/touch_plugin_demo.gif" 
+       alt="touch_plugin_demo world" 
+       title="touch_plugin_demo Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
 </div>
 
-112. touch_plugin_demo.world
+112. tracked_vehicle_simple.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/tracked_vehicle_simple.gif" 
+       alt="tracked_vehicle_simple world" 
+       title="tracked_vehicle_simple Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
 </div>
 
-113. tracked_vehicle_simple.world
+113. tracked_vehicle_wheeled.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/tracked_vehicle_wheeled.gif" 
+       alt="tracked_vehicle_wheeled world" 
+       title="tracked_vehicle_wheeled Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
 </div>
 
-114. tracked_vehicle_wheeled.world
+114. transporter.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/transporter.gif" 
+       alt="transporter world" 
+       title="transporter Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
 </div>
 
-115. transporter.world
+115. trigger.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/trigger.gif" 
+       alt="trigger world" 
+       title="trigger Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
 </div>
 
-116. trigger.world
+116. twin_rotor_demo.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/twin_rotor_demo.gif" 
+       alt="twin_rotor_demo world" 
+       title="twin_rotor_demo Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
 </div>
 
-117. twin_rotor_demo.world
+117. underwater.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/underwater.gif" 
+       alt="underwater world" 
+       title="underwater Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
 </div>
 
-118. underwater.world
+118. variable_gearbox_plugin.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/variable_gearbox_plugin.gif" 
+       alt="variable_gearbox_plugin world" 
+       title="variable_gearbox_plugin Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
 </div>
 
-119. variable_gearbox_plugin.world
+119. willowgarage.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/willowgarage.gif" 
+       alt="willowgarage world" 
+       title="willowgarage Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
 </div>
 
-120. willowgarage.world
+120. wind_demo.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/wind_demo.gif" 
+       alt="wind_demo world" 
+       title="wind_demo Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
 </div>
 
-121. wind_demo.world
+121. wireless_sensors.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/wireless_sensors.gif" 
+       alt="wireless_sensors world" 
+       title="wireless_sensors Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
 </div>
 
-122. wireless_sensors.world
+122. zephyr_demo.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
-       width="800" 
-       style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
-       loading="lazy"/>
-</div>
-
-123. zephyr_demo.world
-<div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/zephyr_demo.gif" 
+       alt="zephyr_demo world" 
+       title="zephyr_demo Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>

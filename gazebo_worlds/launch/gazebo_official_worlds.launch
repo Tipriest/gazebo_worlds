@@ -122,9 +122,9 @@
             willowgarage.world
             wind_demo.world
             wireless_sensors.world
-            zephyr_demo.world
+            zephyr_demo.world                                                   # error
     -->
-    <arg name="wname" default="simple_arm"/>
+    <arg name="wname" default="zephyr_demo"/>
     <!-- these are the arguments you can pass this launch file, for example paused:=true -->
     <arg name="paused" default="true"/>
     <arg name="use_sim_time" default="true"/>
