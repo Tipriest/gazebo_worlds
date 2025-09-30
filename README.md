@@ -754,9 +754,9 @@ some collected or created gazebo worlds
 
 65. ortho.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/ortho.gif" 
+       alt="ortho world" 
+       title="ortho Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -764,9 +764,9 @@ some collected or created gazebo worlds
 
 66. osrf_elevator.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/osrf_elevator.gif" 
+       alt="osrf_elevator world" 
+       title="osrf_elevator Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -774,9 +774,9 @@ some collected or created gazebo worlds
 
 67. pioneer2dx_camera.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/pioneer2dx_camera.gif" 
+       alt="pioneer2dx_camera world" 
+       title="pioneer2dx_camera Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -784,9 +784,9 @@ some collected or created gazebo worlds
 
 68. pioneer2dx_laser_camera.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/pioneer2dx_laser_camera.gif" 
+       alt="pioneer2dx_laser_camera world" 
+       title="pioneer2dx_laser_camera Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -794,9 +794,9 @@ some collected or created gazebo worlds
 
 69. pioneer2dx_laser.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/pioneer2dx_laser.gif" 
+       alt="pioneer2dx_laser world" 
+       title="pioneer2dx_laser Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -804,9 +804,9 @@ some collected or created gazebo worlds
 
 70. pioneer2dx.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/pioneer2dx.gif" 
+       alt="pioneer2dx world" 
+       title="pioneer2dx Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -814,9 +814,9 @@ some collected or created gazebo worlds
 
 71. plane_demo.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/plane_demo.gif" 
+       alt="plane_demo world" 
+       title="plane_demo Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -824,9 +824,9 @@ some collected or created gazebo worlds
 
 72. plane_propeller_demo.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/plane_propeller_demo.gif" 
+       alt="plane_propeller_demo world" 
+       title="plane_propeller_demo Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -834,9 +834,9 @@ some collected or created gazebo worlds
 
 73. plot3d.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/plot3d.gif" 
+       alt="plot3d world" 
+       title="plot3d Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -844,9 +844,9 @@ some collected or created gazebo worlds
 
 74. plugin.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/plugin.gif" 
+       alt="plugin world" 
+       title="plugin Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -854,9 +854,9 @@ some collected or created gazebo worlds
 
 75. point_light_shadows_demo.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/point_light_shadows_demo.gif" 
+       alt="point_light_shadows_demo world" 
+       title="point_light_shadows_demo Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -864,9 +864,9 @@ some collected or created gazebo worlds
 
 76. polyline.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/polyline.gif" 
+       alt="polyline world" 
+       title="polyline Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -874,9 +874,9 @@ some collected or created gazebo worlds
 
 77. population.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/population.gif" 
+       alt="population world" 
+       title="population Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -884,9 +884,9 @@ some collected or created gazebo worlds
 
 78. pr2.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/pr2.gif" 
+       alt="pr2 world" 
+       title="pr2 Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -894,9 +894,9 @@ some collected or created gazebo worlds
 
 79. presentation.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/presentation.gif" 
+       alt="presentation world" 
+       title="presentation Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -904,9 +904,9 @@ some collected or created gazebo worlds
 
 80. pressure_sensor.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/pressure_sensor.gif" 
+       alt="pressure_sensor world" 
+       title="pressure_sensor Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -914,9 +914,9 @@ some collected or created gazebo worlds
 
 81. profiler.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/profiler.gif" 
+       alt="profiler world" 
+       title="profiler Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -924,9 +924,9 @@ some collected or created gazebo worlds
 
 82. projector.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/projector.gif" 
+       alt="projector world" 
+       title="projector Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -934,9 +934,9 @@ some collected or created gazebo worlds
 
 83. random_velocity.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/random_velocity.gif" 
+       alt="random_velocity world" 
+       title="random_velocity Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
