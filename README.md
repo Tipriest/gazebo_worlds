@@ -704,9 +704,9 @@ some collected or created gazebo worlds
 
 60. mud.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/mud.gif" 
+       alt="mud world" 
+       title="mud Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -714,9 +714,9 @@ some collected or created gazebo worlds
 
 61. multilink_shape.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/multilink_shape.gif" 
+       alt="multilink_shape world" 
+       title="multilink_shape Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -724,9 +724,9 @@ some collected or created gazebo worlds
 
 62. nested_model.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/nested_model.gif" 
+       alt="nested_model world" 
+       title="nested_model Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -734,9 +734,9 @@ some collected or created gazebo worlds
 
 63. nested_multilink_shape.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/nested_multilink_shape.gif" 
+       alt="nested_multilink_shape world" 
+       title="nested_multilink_shape Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
@@ -744,9 +744,9 @@ some collected or created gazebo worlds
 
 64. openal.world
 <div align="center" style="margin: 20px 0;">
-  <img src="assets/camera.gif" 
-       alt="camera world" 
-       title="camera Gazebo World Environment"
+  <img src="assets/openal.gif" 
+       alt="openal world" 
+       title="openal Gazebo World Environment"
        width="800" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(240,50,16,0.25);"
        loading="lazy"/>
