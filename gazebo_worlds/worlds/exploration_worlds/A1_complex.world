@@ -81,7 +81,7 @@
       <elevation>0</elevation>
       <heading_deg>0</heading_deg>
     </spherical_coordinates>
-    <model name='indooer_complex_maze'>
+    <model name='indoor_complex_maze'>
       <pose frame=''>1.16883 -2.70223 0 0 -0 0</pose>
       <link name='Wall_109'>
         <collision name='Wall_109_Collision'>
@@ -1110,7 +1110,7 @@
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
-      <model name='indooer_complex_maze'>
+      <model name='indoor_complex_maze'>
         <pose frame=''>1.16883 -2.7022 0 0 -0 0</pose>
         <scale>1 1 1</scale>
         <link name='Wall_109'>

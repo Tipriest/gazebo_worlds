@@ -1,5 +1,5 @@
 <launch>
-    <!-- 
+    <!--
         gazebo_official_worlds
             actor_bvh.world
             actor.world
@@ -51,7 +51,7 @@
             led_plugin_demo.world
             lensflare_plugin.world
             lensflare_wideangle_cam.world
-            lift_drag_demo.world 
+            lift_drag_demo.world
             lights.world                                                         #false
             linear_battery_demo.world
             logical_camera.world
@@ -135,9 +135,8 @@
         rendering, but instead enables recording). The arg definition has been left here to prevent breaking downstream
         launch files, but it does nothing. -->
     <arg name="headless" default="false"/>
-    <arg name="debug" default="false"/>
     <arg name="physics" default="ode"/>
-    <arg name="verbose" default="false"/>
+    <arg name="verbose" default="true"/>
     <arg name="output" default="screen"/>
     <arg name="world_name" default="worlds/empty.world"/> <!-- Note: the world_name is with respect to GAZEBO_RESOURCE_PATH environmental variable -->
     <arg name="respawn_gazebo" default="false"/>
@@ -149,10 +148,11 @@
 
     <include file="$(find gazebo_ros)/launch/empty_world.launch">
         <arg name="world_name" value="/usr/share/gazebo-11/worlds/$(arg wname).world"/>
-        <arg name="debug" value="$(arg debug)"/>
         <arg name="gui" value="$(arg gui)"/>
         <arg name="paused" value="$(arg paused)"/>
         <arg name="use_sim_time" value="$(arg use_sim_time)"/>
         <arg name="headless" value="$(arg headless)"/>
+        <arg name="verbose" value="$(arg verbose)"/>
+
     </include>
 </launch>
