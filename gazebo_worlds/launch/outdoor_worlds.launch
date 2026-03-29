@@ -3,9 +3,16 @@
         outdoor_worlds
             outdoor2
             outdoor_bigscale
+            outdoor_water
+            outdoor_water2
+            outdoor_water3
     -->
     <arg name="wname_class" default="outdoor_worlds"/>
-    <arg name="wname" default="outdoor_bigscale"/>
+    <!-- <arg name="wname" default="outdoor_water"/> -->
+    <!-- <arg name="wname" default="outdoor_bigscale"/> -->
+    <arg name="wname" default="outdoor_water3"/>
+
+
     <arg name="gui" default="true"/>
     <arg name="paused" default="true"/>
     <arg name="use_sim_time" default="true"/>
